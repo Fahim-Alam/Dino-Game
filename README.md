@@ -1,12 +1,10 @@
-The player guides a pixelated Tyrannosaurus rex across a side-scrolling landscape, avoiding obstacles to achieve a higher score.
+The player guides a pixelated Tyrannosaurus rex across a side-scrolling landscape, avoiding obstacles to achieve a higher score. The funtionalities of the game was built using the python language and the pygame module was implemented to run the game. 
 
 
-Start of the Game
+Start Game Screen:
+![image](https://user-images.githubusercontent.com/66892906/205954095-b71fd0eb-0ddc-471d-b934-d3723e968506.png)
 
-![image](https://user-images.githubusercontent.com/66892906/205951801-4c4695b5-43d9-4d91-805a-050816502063.png)
 
-
-End of the Game
-
-![background](https://user-images.githubusercontent.com/66892906/205951665-f27c1c2b-4bb6-4583-b0cd-eca0e2892d11.png)
+Game Over Screen:
+![image](https://user-images.githubusercontent.com/66892906/205954042-00e136ac-35dd-4630-8047-2523fe6cf085.png)
 
